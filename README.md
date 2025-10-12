@@ -58,9 +58,3 @@ I’m continuously learning to deepen my expertise in Django REST Framework, tes
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alvix11&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvix11&layout=compact&theme=radical)
-
----
-
-## 🧠 Quote that drives me
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
