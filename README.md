@@ -17,7 +17,7 @@ Passionate about **clean code**, testing, and scalable backend solutions.
 [![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white)](https://restfulapi.net/)
 [![Testing](https://img.shields.io/badge/Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)](https://docs.python.org/3/library/unittest.html)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/torvalds/linux)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://learning.postman.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/documentation)
