@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Alvin Angulo
 
+![Profile Views](https://komarev.com/ghpvc/?username=Alvix11&color=blue&style=flat-square)
+
 ## 🧑‍💻 About Me
 I'm a Backend Developer specialized in **Python & Django**, focused on building **REST APIs**.
 Passionate about clean code, testing, and scalable backend solutions.
