@@ -9,7 +9,7 @@ Passionate about **clean code**, testing, and scalable backend solutions.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
@@ -21,13 +21,6 @@ Passionate about **clean code**, testing, and scalable backend solutions.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 📌 Featured Projects
-- **[Blogging Platform API](https://github.com/Alvix11/blogging-platform-API)** – REST API with CRUD, PostgreSQL, and automated tests.  
-- **[Personal Blog](#)** – Django app with authentication and role-based access.  
-- **[Todo List API](https://github.com/Alvix11/todo-list-API)** – REST API with JWT, pagination, and throttling.  
 
 ---
 
