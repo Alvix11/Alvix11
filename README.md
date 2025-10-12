@@ -26,8 +26,9 @@ Passionate about **clean code**, testing, and scalable backend solutions.
 
 ## 🎯 Currently Learning
 - **Advanced Django REST Framework**
-- **System design patterns** 
-- **Performance optimization**
+- **System design patterns**
+- **Performance optimization** 
+- **Advanced testing strategies**
 
 ---
 
