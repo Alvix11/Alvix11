@@ -24,6 +24,13 @@ Passionate about **clean code**, testing, and scalable backend solutions.
 
 ---
 
+## 🎯 Currently Learning
+- **Advanced Django REST Framework**
+- **System design patterns** 
+- **Performance optimization**
+
+---
+
 ## 📫 Connect with Me
 - 🌐 GitHub: [Alvix11](https://github.com/Alvix11)  
 - 💼 LinkedIn: [Alvin Angulo](https://www.linkedin.com/in/alvin-angulo)  
