@@ -5,7 +5,7 @@ I'm a **Backend Developer** specializing in **Python** and **Django**, building 
 I enjoy creating projects that strengthen my skills and serve as portfolio pieces or learning references.
 
 - 💼 Looking for backend development opportunities  
-- ⚡ Focused on **REST APIs, Django, PostgreSQL, JWT, throttling, pagination**  
+- ⚡ Focused on **REST APIs, Django, PostgreSQL**  
 - 🌱 Currently exploring advanced Django features and best practices  
 
 ---
