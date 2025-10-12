@@ -25,7 +25,7 @@ I enjoy creating projects that strengthen my skills and serve as portfolio piece
 
 | Project | Description |
 |---------|-------------|
-| **[Blogging Platform API](https://github.com/Alvix11/blogging-platform-API)** | Simple Django REST Framework project with user authentication and CRUD operations. |
+| **[Blogging Platform API](https://github.com/Alvix11/blogging-platform-API)** | Simple Django REST Framework project with CRUD. |
 | **[Todo List API](https://github.com/Alvix11/todo-list-API)** | REST API with CRUD, JWT authentication, pagination, throttling, and PostgreSQL. |
 
 ---
