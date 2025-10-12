@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alvin Angulo (Alvix11)
+# 👋 Hi, I'm Alvin Angulo
 
 ## 🧑‍💻 About Me
 I'm a Backend Developer specialized in **Python & Django**, focused on building **REST APIs**.
@@ -7,7 +7,7 @@ I learn quickly and constantly explore new tools and best practices to improve m
 
 - 💼 Open to backend development opportunities  
 - ⚡ Skilled in **APIs, PostgreSQL, Django REST Framework**  
-
+- 📫 How to reach me: alvinangulo.cv@gmail.com
 ---
 
 ## 🛠️ Languages and Tools:
@@ -36,7 +36,6 @@ I learn quickly and constantly explore new tools and best practices to improve m
 ## 📫 Connect with Me
 - 🌐 GitHub: [Alvix11](https://github.com/Alvix11)  
 - 💼 LinkedIn: [Alvin Angulo](https://www.linkedin.com/in/alvin-angulo)  
-- 📧 Email: alvinangulo.cv@gmail.com  
 
 ---
 
