@@ -21,11 +21,12 @@ I’m continuously learning to deepen my expertise in Django REST Framework, tes
 ### ⚙️ Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -42,7 +43,6 @@ I’m continuously learning to deepen my expertise in Django REST Framework, tes
 ## 🧩 What I'm Currently Learning
 - Advanced Django REST Framework features (throttling, permissions, versioning)
 - Automated testing (unit tests, integration tests)
-- Deployment workflows (Docker, Gunicorn, Nginx)
 - System design and backend optimization
 
 ---
