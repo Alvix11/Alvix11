@@ -61,5 +61,3 @@ with filters and groupby support.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alvix11&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvix11&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Alvix11&theme=radical)
