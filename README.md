@@ -46,7 +46,7 @@ traceability for every change.
 Custom analytical report built with a `_auto = False` SQL view in Odoo 17,
 modeled after `sale.report`. Consolidates data from `stock.picking` and
 `stock.scrap` to calculate shrinkage per product and vendor
-(demand − delivered = merma). Exposes the report natively in the Odoo UI
+(demand − delivered = shrinkage). Exposes the report natively in the Odoo UI
 with filters and groupby support.
 `Python` · `Odoo` · `PostgreSQL` · `SQL Views` · `Git` · `Docker`
 
