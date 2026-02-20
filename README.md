@@ -29,7 +29,7 @@ Self-taught, focused on clean code, automated testing, and scalable solutions.
 
 ---
 
-## 🚀 Projects
+## 🚀 Experience
 
 ### 🔗 Global API Integration Module (Odoo)
 Custom Odoo module that integrates sales orders with an external production
