@@ -38,7 +38,7 @@ responses via cron jobs, automatically adjusts order lines (updates
 quantities, adds/removes products based on API response), feeds inventory,
 and confirms orders. Includes a manual sync check action and chatter
 traceability for every change.
-`Python` · `Odoo 17` · `REST API` · `XML-RPC` · `Git` · `Docker`
+`Python` · `Odoo` · `REST API` · `XML-RPC` · `Git` · `Docker`
 
 ---
 
@@ -48,7 +48,7 @@ modeled after `sale.report`. Consolidates data from `stock.picking` and
 `stock.scrap` to calculate shrinkage per product and vendor
 (demand − delivered = merma). Exposes the report natively in the Odoo UI
 with filters and groupby support.
-`Python` · `Odoo 17` · `PostgreSQL` · `SQL Views` · `Git` · `Docker`
+`Python` · `Odoo` · `PostgreSQL` · `SQL Views` · `Git` · `Docker`
 
 ---
 
