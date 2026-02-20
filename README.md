@@ -31,7 +31,7 @@ Self-taught, focused on clean code, automated testing, and scalable solutions.
 
 ## 🚀 Projects
 
-### 🔗 Global API Integration Module (Odoo 17)
+### 🔗 Global API Integration Module (Odoo)
 Custom Odoo module that integrates sales orders with an external production
 system (Global API). Implements a full sync cycle: sends orders, pulls
 responses via cron jobs, automatically adjusts order lines (updates
@@ -42,7 +42,7 @@ traceability for every change.
 
 ---
 
-### 📊 Shrinkage SQL Report (Odoo 17)
+### 📊 Shrinkage SQL Report (Odoo)
 Custom analytical report built with a `_auto = False` SQL view in Odoo 17,
 modeled after `sale.report`. Consolidates data from `stock.picking` and
 `stock.scrap` to calculate shrinkage per product and vendor
