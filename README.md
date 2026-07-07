@@ -61,7 +61,6 @@ microservice.
 ---
 
 ## 📫 Connect with Me
-- 🌐 GitHub: [Alvix11](https://github.com/Alvix11)
 - 💼 LinkedIn: [Alvin Angulo](https://www.linkedin.com/in/alvin-angulo)
 
 ---
